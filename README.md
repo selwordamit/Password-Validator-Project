@@ -3,11 +3,11 @@
 This project is a Java-based application designed to validate user passwords during a registration process. It enforces strict password security criteria and provides clear feedback using custom exceptions and structured logging.
 
 ## Features
-- Validates passwords for:
+- **Validates passwords for:**
 - Minimum and maximum length.
 - Presence of lowercase, uppercase, digits, and special characters.
 - Matching confirmation password.
-- Custom exceptions for:
+- **Custom exceptions for:**
 - Weak passwords.
 - Password mismatch.
 - Implements a ValidationLogger class with AutoCloseable for structured logging.

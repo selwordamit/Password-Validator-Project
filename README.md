@@ -14,7 +14,7 @@ This project is a Java-based application designed to validate user passwords dur
 - Logs success, failure, and process completion messages.
 
 ## Technologies Used
-- Java 8+
+- Java
 - Exception Handling
 - Try-With-Resources
 - Logging
